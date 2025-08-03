@@ -1,7 +1,44 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\source\\LoveAndMarriage\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C22D93-CC2F-4C0A-B8A0-CB0D5BB3C709}|Domain\\Domain.csproj|d:\\source\\loveandmarriage\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B6C22D93-CC2F-4C0A-B8A0-CB0D5BB3C709}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C22D93-CC2F-4C0A-B8A0-CB0D5BB3C709}|Domain\\Domain.csproj|d:\\source\\loveandmarriage\\domain\\valueobjects\\profilename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C22D93-CC2F-4C0A-B8A0-CB0D5BB3C709}|Domain\\Domain.csproj|solutionrelative:domain\\valueobjects\\profilename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98673860-8F45-42AA-B04C-C065FD8FBE70}|Infrastructure\\Infrastructure.csproj|d:\\source\\loveandmarriage\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{98673860-8F45-42AA-B04C-C065FD8FBE70}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6735B3F-C873-4CB8-9C99-13F1D75B3ECD}|Application\\Application.csproj|d:\\source\\loveandmarriage\\application\\services\\profileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6735B3F-C873-4CB8-9C99-13F1D75B3ECD}|Application\\Application.csproj|solutionrelative:application\\services\\profileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98673860-8F45-42AA-B04C-C065FD8FBE70}|Infrastructure\\Infrastructure.csproj|d:\\source\\loveandmarriage\\infrastructure\\profilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98673860-8F45-42AA-B04C-C065FD8FBE70}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\profilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6735B3F-C873-4CB8-9C99-13F1D75B3ECD}|Application\\Application.csproj|d:\\source\\loveandmarriage\\application\\interfaces\\repositories\\iprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6735B3F-C873-4CB8-9C99-13F1D75B3ECD}|Application\\Application.csproj|solutionrelative:application\\interfaces\\repositories\\iprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6735B3F-C873-4CB8-9C99-13F1D75B3ECD}|Application\\Application.csproj|d:\\source\\loveandmarriage\\application\\dtos\\requests\\createprofilerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6735B3F-C873-4CB8-9C99-13F1D75B3ECD}|Application\\Application.csproj|solutionrelative:application\\dtos\\requests\\createprofilerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6735B3F-C873-4CB8-9C99-13F1D75B3ECD}|Application\\Application.csproj|d:\\source\\loveandmarriage\\application\\interfaces\\services\\iprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6735B3F-C873-4CB8-9C99-13F1D75B3ECD}|Application\\Application.csproj|solutionrelative:application\\interfaces\\services\\iprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5C85FB-2179-4B1E-8619-1DC684552E87}|LoveAndMarriage\\LoveAndMarriage.csproj|d:\\source\\loveandmarriage\\loveandmarriage\\loveandmarriage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4C5C85FB-2179-4B1E-8619-1DC684552E87}|LoveAndMarriage\\LoveAndMarriage.csproj|solutionrelative:loveandmarriage\\loveandmarriage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -32,8 +69,125 @@
               "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Domain",
+              "DocumentMoniker": "D:\\source\\LoveAndMarriage\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "D:\\source\\LoveAndMarriage\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-03T19:15:11.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProfileName.cs",
+              "DocumentMoniker": "D:\\source\\LoveAndMarriage\\Domain\\ValueObjects\\ProfileName.cs",
+              "RelativeDocumentMoniker": "Domain\\ValueObjects\\ProfileName.cs",
+              "ToolTip": "D:\\source\\LoveAndMarriage\\Domain\\ValueObjects\\ProfileName.cs",
+              "RelativeToolTip": "Domain\\ValueObjects\\ProfileName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T19:15:03.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Infrastructure",
+              "DocumentMoniker": "D:\\source\\LoveAndMarriage\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "D:\\source\\LoveAndMarriage\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-03T19:03:26.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProfileRepository.cs",
+              "DocumentMoniker": "D:\\source\\LoveAndMarriage\\Infrastructure\\ProfileRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ProfileRepository.cs",
+              "ToolTip": "D:\\source\\LoveAndMarriage\\Infrastructure\\ProfileRepository.cs",
+              "RelativeToolTip": "Infrastructure\\ProfileRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T18:46:25.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProfileService.cs",
+              "DocumentMoniker": "D:\\source\\LoveAndMarriage\\Application\\Services\\ProfileService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ProfileService.cs",
+              "ToolTip": "D:\\source\\LoveAndMarriage\\Application\\Services\\ProfileService.cs",
+              "RelativeToolTip": "Application\\Services\\ProfileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T18:35:41.039Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProfileRepository.cs",
+              "DocumentMoniker": "D:\\source\\LoveAndMarriage\\Application\\Interfaces\\Repositories\\IProfileRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\Repositories\\IProfileRepository.cs",
+              "ToolTip": "D:\\source\\LoveAndMarriage\\Application\\Interfaces\\Repositories\\IProfileRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\Repositories\\IProfileRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T18:43:25.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateProfileRequest.cs",
+              "DocumentMoniker": "D:\\source\\LoveAndMarriage\\Application\\DTOs\\Requests\\CreateProfileRequest.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Requests\\CreateProfileRequest.cs",
+              "ToolTip": "D:\\source\\LoveAndMarriage\\Application\\DTOs\\Requests\\CreateProfileRequest.cs",
+              "RelativeToolTip": "Application\\DTOs\\Requests\\CreateProfileRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T18:54:48.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProfileService.cs",
+              "DocumentMoniker": "D:\\source\\LoveAndMarriage\\Application\\Interfaces\\Services\\IProfileService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\Services\\IProfileService.cs",
+              "ToolTip": "D:\\source\\LoveAndMarriage\\Application\\Interfaces\\Services\\IProfileService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\Services\\IProfileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T18:34:23.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoveAndMarriage",
+              "DocumentMoniker": "D:\\source\\LoveAndMarriage\\LoveAndMarriage\\LoveAndMarriage.csproj",
+              "RelativeDocumentMoniker": "LoveAndMarriage\\LoveAndMarriage.csproj",
+              "ToolTip": "D:\\source\\LoveAndMarriage\\LoveAndMarriage\\LoveAndMarriage.csproj",
+              "RelativeToolTip": "LoveAndMarriage\\LoveAndMarriage.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-03T13:24:01.932Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
